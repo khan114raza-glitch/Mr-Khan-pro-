@@ -1,0 +1,6 @@
+{
+  "name": "Mr Khan Video Sharing Platform",
+  "description": "Production-ready video sharing platform built with Android Jetpack Compose Material 3 architecture, Media3 ExoPlayer streaming, Ambient Lighting, Room offline caching, and Retrofit REST API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

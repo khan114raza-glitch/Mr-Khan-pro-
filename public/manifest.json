@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Mr Khan Video Sharing",
+  "short_name": "Mr Khan",
+  "description": "Production-ready video sharing platform built with Android Jetpack Compose Material 3 and Media3 ExoPlayer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0f17",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
